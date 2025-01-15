@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">1
   <a href="https://x.com/GanatraSoham/?utm_campaign=github-readme" target="_blank">
     <img src="./python/docs/imgs/follow_x.png" width="100%" alt="Follow me" />
   </a>
